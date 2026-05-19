@@ -21,18 +21,18 @@ I am a Full Stack Software Engineer with over 4 years of experience building sca
 
 ### 📈 Professional Highlights
 
-* **Scalability at Scale:** Deployed 8+ Spring Boot microservices on AWS for inventory workflows, handling **10M+ records daily** [cite: 19].
-* **Performance Optimization:** Reduced high-frequency transaction latency by **30%** through PostgreSQL and JPA/Hibernate optimization [cite: 24].
-* **System Reliability:** Automated CI/CD pipelines, reducing deployment time by **40%** and post-production defects by **25%** [cite: 22].
-* **Healthcare Impact:** Designed a secure, HIPAA-compliant API Gateway at NYS OMH, reducing system failures by **35%** [cite: 29].
-* **AI Productivity:** Leveraged GitHub Copilot and ChatGPT to accelerate development, improving engineering productivity by **20-25%** [cite: 25].
+* **Scalability at Scale:** Deployed 8+ Spring Boot microservices on AWS for inventory workflows, handling **10M+ records daily** .
+* **Performance Optimization:** Reduced high-frequency transaction latency by **30%** through PostgreSQL and JPA/Hibernate optimization .
+* **System Reliability:** Automated CI/CD pipelines, reducing deployment time by **40%** and post-production defects by **25%** .
+* **Healthcare Impact:** Designed a secure, HIPAA-compliant API Gateway at NYS OMH, reducing system failures by **35%** .
+* **AI Productivity:** Leveraged GitHub Copilot and ChatGPT to accelerate development, improving engineering productivity by **20-25%**.
 
 ---
 
 ### 🎓 Education 
 
-* **Masters in Data Science** – University at Albany (SUNY), NY [cite: 52]
-* **Bachelors in Electronics and Communication** – RMKEC, India [cite: 52]
+* **Masters in Data Science** – University at Albany (SUNY), NY 
+* **Bachelors in Electronics and Communication** – RMKEC, India 
 
 
 ### 📜 Certifications
@@ -46,8 +46,8 @@ I am a Full Stack Software Engineer with over 4 years of experience building sca
 ---
 
 ### 📫 Let's Connect!
-* **Email:** [yaswanthreddyr4@gmail.com](mailto:yaswanthreddyr4@gmail.com) [cite: 3]
-* **Location:** Princeton, NJ / Folsom, CA [cite: 3]
+* **Email:** [yaswanthreddyr4@gmail.com](mailto:yaswanthreddyr4@gmail.com) 
+* **Location:** United States 
 
 ---
 *“Building robust systems and exploring the future of Generative AI.”*
